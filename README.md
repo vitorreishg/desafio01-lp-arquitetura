@@ -7,7 +7,7 @@ Boas-vindas ao projeto desenvolvido junto com a Escola DNC.
 <p align="center">
 <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -38,6 +38,6 @@ com as tecnologias citadas acima.
 
 Você pode visualizar o projeto através dos links:
 
-- Landing Page
+- [Landing Page](https://charming-travesseiro-7226f9.netlify.app/)
 - [Planilha](https://docs.google.com/spreadsheets/d/1cCDtHftewZFEfOboysQsQ19zwJ3DuygqvyItIyAgHZo/edit?usp=sharing)
 - [Layout no Figma](https://www.figma.com/file/lFGqjYvJPJZpus7P4LhXoV/Escola-DNC---DESAFIO-01?type=design&node-id=0-1&mode=design)
