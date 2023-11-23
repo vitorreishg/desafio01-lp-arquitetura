@@ -1,0 +1,138 @@
+html{
+    box-sizing: border-box;
+}
+
+*{
+    margin: 0px;
+    font-family: "inter";
+}
+
+#menu-superior{
+    background-color: #303030;
+    color: white;
+    width: 100%;
+    padding: 206px 0px 149px 0px;
+}
+
+#titulo-superior{
+    font-size: 60px;
+    margin-left: 62px;
+    font-weight: 600;
+}
+
+#texto-superior{
+    font-size: 20px;
+    margin-left: 62px;
+    margin-top: 20px;
+    font-weight: 500;
+}
+
+#menu-informacional{
+    background-color: #F9F9F9;
+    display: grid;
+    grid-auto-flow: column;
+    justify-content: space-evenly;
+    padding-top: 96px;
+    padding-bottom: 66px;
+}
+
+.titulo-informacional{
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.texto-informacional{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+#secao-foto{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 82px 0px 82px 0px;
+}
+
+img{
+    width: 510px;
+    height: 605px;
+}
+
+#titulo-secao-foto{
+    font-size: 40px;
+    font-weight: 500;
+}
+
+#infos-secao-foto{
+    padding-right: 79px;
+}
+
+#texto-secao-foto{
+    margin-top: 60px;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 30px;
+}
+
+#secao-formulario{
+    text-align: center;
+    background-color: #303030;
+    color: white;
+    padding: 87px 0px 87px 0px;
+}
+
+#titulo-secao-formulario{
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 17px;
+}
+
+form{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.fontRaleway{
+    font-family: "Raleway";
+}
+
+input{
+    background-color: white;
+    border: none;
+    width: 508px;
+    height: 72px;
+    border-radius: 10px;
+    font-size: 24px;
+    font-weight: 700;
+    padding-left: 30px;
+    margin: 31px;
+}
+
+::placeholder{
+    color: #B3B3B3;
+}
+
+button{
+    cursor: pointer;
+    background-color: #C07212;
+    color: white;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+
+    width: 286px;
+    height: 74px;
+    border: none;
+    border-radius: 10px;
+    margin: 57px auto;
+}
+
+button:hover{
+    background-color: #e3902b;
+    transform:translateY(-2%);
+    transition: ease-in-out 0.4;
+    box-shadow: -1px 8px 14px 0px rgba(252,177,86,0.56);
+    -webkit-box-shadow: -1px 8px 14px 0px rgba(252,177,86,0.56);
+    -moz-box-shadow: -1px 8px 14px 0px rgba(252,177,86,0.56);
+}
